@@ -1,0 +1,9 @@
+.table16 {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-template-rows: auto;
+	gap: 0.5rem;
+	width: auto;
+	height: auto;
+	margin-top: 2rem;
+}
